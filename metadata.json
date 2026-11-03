@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bridge Work Orders - All_Test for feedback columns",
+  "description": "Compare Bridge Work Orders and X Track Work orders and bring as per QMT Excel required feild",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
